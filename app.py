@@ -1,8 +1,7 @@
-def sum(a,b):
-    return a + b
+def sum(a,b,c):
+    return a + b + c
+def helloe():
+    print("hello")
 
-
-print(sum(1,2))
-
-def div(a,b,c):
-    return a / b * c
+def div(a,b):
+    return a / b
